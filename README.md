@@ -6,6 +6,8 @@
    参考了SwipeListView和如下项目：
    
    https://github.com/owenmike/contact-listview
+   
+   ![image](https://github.com/weijianfeng/StarSwipeListDemo-with-Name-Index/blob/master/readme.gif) 
 
 
 
